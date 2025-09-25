@@ -1,6 +1,3 @@
-# TimeMixer++: Code and Checkpoints for ICLR 2025 Submission
-TimeMixer++: A General Time Series Pattern Machine For Universal Predictive Analysis
-
 ## Overview
 To help reviewers verify and run our experiments, we are providing:
 - Trained model checkpoints for TimeMixer++.
@@ -57,17 +54,3 @@ For additional scripts covering different datasets and configurations, refer to:
 ```shell
 ./scripts
 ```
-
-
-# Citation
-
-If you find this work useful, please consider citing our work:
-```citaion
-@inproceedings{Wang2025TimeMixer++,
-  title={Timemixer++: A general time series pattern machine for universal predictive analysis},
-  author={Wang, Shiyu and Li, Jiawei and Shi, Xiaoming and Ye, Zhou and Mo, Baichuan and Lin, Wenze and Ju, Shengtong and Chu, Zhixuan and Jin, Ming},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2025}
-}
-```
-# farmercentigrade
